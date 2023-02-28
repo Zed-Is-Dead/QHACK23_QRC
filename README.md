@@ -1,17 +1,18 @@
-# Quantum Reservoir Computing with Pennylane
----
-
 <div align="center">
   <a href="https://github.com/Zed-Is-Dead/"><img src="https://github.com/Zed-Is-Dead/QHACK23_QRC/blob/main/pics/quantum_computing_reservoir_01.jpg" height="800" width="800" /></a>
 </div>
+
+<div align="center">
+  <h1> <a href="https://github.com/XanaduAI/QHack2023"> QHack2023 Open Hackathon </a> - <i> Patterns in the Ivy </i> Team Project </h1>
+  <h2> Quantum Reservoir Computing with Pennylane </h2>
+</div>
+
 
 **Team name**: *Patterns in the Ivy*[^1]
 
 **Topic**: Implementation of Quantum Reservoir Computing techniques with Pennylane
 
-[Submitted as a QHack2023 project on Feb 28th 2023 by MisterQ]
-
-[^1]: Opeth song - Swedish progmetal band 
+[^1]: Opeth song - MisterQ's favorite (Swedish) progmetal band 
 
 ---
 
@@ -30,7 +31,7 @@ Quantum Reservoir Computing (QRC) is the combination of quantum computing and ph
 
 ## References
 
-[1]  K. Fujii, K. Nakajima, [Harnessing disordered quantum dynamics for machine learning)](https://arxiv.org/abs/1602.08159v2), Phys. Rev. Applied 8, 024030 (2017) ^e64a7a
+[1]  K. Fujii, K. Nakajima, [Harnessing disordered quantum dynamics for machine learning](https://arxiv.org/abs/1602.08159v2), Phys. Rev. Applied 8, 024030 (2017) ^e64a7a
 
 [2]  K. Fujii, K. Nakajima, [Quantum reservoir computing: a reservoir approach toward quantum machine learning on near-term quantum devices](https://arxiv.org/abs/2011.04890), arXiv:2011.04890
 
