@@ -23,6 +23,7 @@ The aim of this project is to *create a self-contained tutorial or demonstration
 ### Disclaimer
 
 This is a first introduction to the topic of *Quantum Reservoir Computing with Pennylane* and it will be followed by use case applications in subsequent developments.
+Initial ambition was to fully implement at least one use case with Pennylane and IBM-Q system (e.g. ibm_nairobi or # ibmq_jakarta) and to assess the impact of noise on the performance of the QR tasks. Due to lack of time, this program is postponed. However, the current state of the project is in our opinion a good starting point for a demo/tutorial on this promising field of research.  
 
 ## Abstract
 
