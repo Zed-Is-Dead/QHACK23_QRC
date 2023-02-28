@@ -26,8 +26,11 @@ This is a first introduction to the topic of *Quantum Reservoir Computing with P
 
 ## Abstract
 
-Quantum Reservoir Computing (QRC) is the combination of quantum computing and physical reservoir computing to harness complex quantum dynamics as a reservoir for real-time machine learning tasks [[1](https://arxiv.org/abs/1602.08159v2)] . The approach followed by QRC is to exploit the complexity of natural (disordered) quantum dynamics for information processing. The framework of QRC enables to universally emulate nonlinear dynamical systems including classical chaos.
+Quantum Reservoir Computing (QRC) is the combination of quantum computing and physical reservoir computing to harness complex quantum dynamics as a reservoir for real-time machine learning tasks [[1](https://arxiv.org/abs/1602.08159v2)]. The approach followed by QRC is to exploit the complexity of natural (disordered) quantum dynamics for information processing. The framework of QRC enables to universally emulate nonlinear dynamical systems including classical chaos [[2](https://arxiv.org/abs/2011.04890)]. 
 
+In this demo, we describe how to implement QRC techniques with [PennyLane](https://pennylane.ai/). Our quantum reservoir is comprised of interacting quantum-mechanical spin systems, which are subject to the dynamics governed by the Fully Connected Transverse Field Ising (FC-TFI) Hamiltonian. As a first application, we consider the task of learning temporal sequences, with the objective of reproducing (at least) the results obtained in a recent article [[3](https://arxiv.org/abs/2301.08796)].
+
+We make use of Pennylane simulation devices and will extend selected examples as experiments on IBM-Q real hardware.
 
 ## References
 
