@@ -2,14 +2,14 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Zed-Is-Dead/"><img src="https://github.com/Zed-Is-Dead/QHACK23_QRC/blob/main/pics/quantum_computing_reservoir_01.jpg" height="500" width="500" /></a>
+  <a href="https://github.com/Zed-Is-Dead/"><img src="https://github.com/Zed-Is-Dead/QHACK23_QRC/blob/main/pics/quantum_computing_reservoir_01.jpg" height="800" width="800" /></a>
 </div>
 
 **Team name**: *Patterns in the Ivy*[^1]
 
 **Topic**: Implementation of Quantum Reservoir Computing techniques with Pennylane
 
---> Submitted as a QHack2023 project on Feb 28th 2023 by MisterQ
+[Submitted as a QHack2023 project on Feb 28th 2023 by MisterQ]
 
 [^1]: Opeth song - Swedish progmetal band 
 
