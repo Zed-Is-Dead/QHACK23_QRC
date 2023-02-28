@@ -2,14 +2,14 @@
 ---
 
 <div align="center">
-  <a img src="pics/quantum_computing_reservoir_01.jpg" height="500" width="500" /></a>
+  <a href="https://github.com/Zed-Is-Dead/"><img src="https://github.com/Zed-Is-Dead/QHACK23_QRC/blob/main/pics/quantum_computing_reservoir_01.jpg" height="800" width="800" /></a>
 </div>
 
 **Team name**: *Patterns in the Ivy*[^1]
 
 **Topic**: Implementation of Quantum Reservoir Computing techniques with Pennylane
 
---> Submitted as a QHack2023 project on Feb 28th 2023 by MisterQ
+[Submitted as a QHack2023 project on Feb 28th 2023 by MisterQ]
 
 [^1]: Opeth song - Swedish progmetal band 
 
@@ -25,7 +25,7 @@ This is a first introduction to the topic of *Quantum Reservoir Computing with P
 
 ## Abstract
 
-Quantum Reservoir Computing (QRC) is the combination of quantum computing and physical reservoir computing to harness complex quantum dynamics as a reservoir for real-time machine learning tasks [[#^e64a7a|[1]]] . The approach followed by QRC is to exploit the complexity of natural (disordered) quantum dynamics for information processing. The framework of QRC enables to universally emulate nonlinear dynamical systems including classical chaos.
+Quantum Reservoir Computing (QRC) is the combination of quantum computing and physical reservoir computing to harness complex quantum dynamics as a reservoir for real-time machine learning tasks [[1](https://arxiv.org/abs/1602.08159v2)] . The approach followed by QRC is to exploit the complexity of natural (disordered) quantum dynamics for information processing. The framework of QRC enables to universally emulate nonlinear dynamical systems including classical chaos.
 
 
 ## References
